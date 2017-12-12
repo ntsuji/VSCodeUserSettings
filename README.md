@@ -12,17 +12,17 @@
   Run `cmd.exe` as Administrator
 
   ```
-> cd PATH\TO\CODE
-> rd /s /q User
-> mklink /d User PATH\TO\VSCodeUserSettings
+  > cd PATH\TO\CODE
+  > rd /s /q User
+  > mklink /d User PATH\TO\VSCodeUserSettings
   ```
 
 * Mac/Linux
 
   ```
-$ cd PATH/TO/CODE
-$ rm -rf User
-$ ln -s PATH/TO/VSCodeUserSettings User
+  $ cd PATH/TO/CODE
+  $ rm -rf User
+  $ ln -s PATH/TO/VSCodeUserSettings User
   ```
 
 ### Edit `settings.json`
