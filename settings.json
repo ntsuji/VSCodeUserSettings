@@ -1,0 +1,19 @@
+{
+    // For MBP13 Retina
+    // "editor.fontFamily": "Menlo Regular",
+    // "editor.fontSize": 16,
+
+    // For Windows PC at office
+    // "editor.fontFamily": "Consolas",
+    // "editor.fontSize": 16,
+
+    "editor.renderWhitespace": "all",
+    "editor.rulers": [
+        80,
+        120
+    ],
+    "editor.wordWrap": "on",
+    "files.autoGuessEncoding": true,
+    "printcode.tabSize": 4,
+    "workbench.colorTheme": "Solarized Light",
+}
