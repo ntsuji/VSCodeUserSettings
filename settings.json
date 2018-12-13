@@ -11,8 +11,11 @@
         120
     ],
     "editor.wordWrap": "on",
+    "editor.cursorSmoothCaretAnimation": true,
+    "diffEditor.ignoreTrimWhitespace": false,
     "files.autoGuessEncoding": true,
-    "printcode.tabSize": 4,
-    "workbench.colorTheme": "Solarized Light",
     "workbench.startupEditor": "newUntitledFile",
+    "workbench.colorTheme": "Solarized Light",
+    "workbench.fontAliasing": "auto",
+    "printcode.tabSize": 4,
 }
