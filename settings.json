@@ -15,7 +15,7 @@
     "diffEditor.ignoreTrimWhitespace": false,
     "files.autoGuessEncoding": true,
     "workbench.startupEditor": "newUntitledFile",
-    "workbench.colorTheme": "Solarized Light",
+    "workbench.colorTheme": "Solarized Dark",
     "workbench.fontAliasing": "auto",
     "printcode.tabSize": 4,
 }
