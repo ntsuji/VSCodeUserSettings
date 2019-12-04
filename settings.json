@@ -5,17 +5,16 @@
     // For Windows PC at office
     // "editor.fontSize": 16,
 
+    "editor.cursorSmoothCaretAnimation": true,
     "editor.renderWhitespace": "all",
     "editor.rulers": [
         80,
         120
     ],
     "editor.wordWrap": "on",
-    "editor.cursorSmoothCaretAnimation": true,
-    "diffEditor.ignoreTrimWhitespace": false,
     "files.autoGuessEncoding": true,
-    "workbench.startupEditor": "newUntitledFile",
+    "printcode.tabSize": 4,
     "workbench.colorTheme": "Solarized Dark",
     "workbench.fontAliasing": "auto",
-    "printcode.tabSize": 4,
+    "workbench.startupEditor": "newUntitledFile",
 }
