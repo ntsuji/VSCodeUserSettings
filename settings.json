@@ -13,8 +13,6 @@
     ],
     "editor.wordWrap": "on",
     "files.autoGuessEncoding": true,
-    "printcode.tabSize": 4,
     "workbench.colorTheme": "Solarized Dark",
-    "workbench.fontAliasing": "auto",
     "workbench.startupEditor": "newUntitledFile",
 }
