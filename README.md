@@ -9,12 +9,10 @@
 ### Make symbolic link
 * Windows
 
-  Run `cmd.exe` as Administrator
-
   ```
   > cd PATH\TO\CODE
   > rd /s /q User
-  > mklink /d User PATH\TO\VSCodeUserSettings
+  > mklink /j User PATH\TO\VSCodeUserSettings
   ```
 
 * Mac/Linux
